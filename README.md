@@ -1,5 +1,5 @@
 # SmartFlow 
-
+Here is the link to my video: [https://youtu.be/oa3kCLmTvhE])
 ## Overview
 South Sudan faces severe water supply issues affecting agriculture due to droughts and unpredictable rainfall.Despite advancements in smart farming globally, South Sudan's agricultural sector still relies heavily on manual irrigation methods. Studies such as Mugo et al. (2021), Awino et al. (2019), and Kamau et al. (2020) highlight the benefits of smart irrigation systems but note limitations like high costs and lack of local data is significant factor hindering such breathtaking innovation. This project addresses these gaps by developing a low-cost and scalable solution suitable for  South Sudan farmers. 
 
